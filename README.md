@@ -9,9 +9,7 @@
 * Then you need to store your accounts using `termux.py`
 * Then, scrape and add members using `adding.py`
 
-<b> For full tutorial, refer to <a href='https://github.com/Cryptonian007/MemberScrapper/blob/main/how_to_run.txt'>how_to_use.txt</a> </b>
-
-<a href="https://github.com/Cryptonian007/MemberScrapper/blob/main/how_to_run.txt"><img src="https://img.shields.io/badge/watch-Run%20Tutorial-blue.svg?style=for-the-badge&logo=GitHub"></a>
+<a href="https://github.com/Cryptonian007/MemberScrapper/blob/main/how_to_run.txt"><img src="https://img.shields.io/badge/Run%20Tutorial-blue.svg?style=for-the-badge&logo=GitHub"></a>
 
 # Features ♨️
 
